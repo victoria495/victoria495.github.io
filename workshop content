@@ -1,0 +1,85 @@
+<div class="panel panel-default">
+                        <div class="speaker-wrapper">
+                          <img src="assets/img/speaker/Karen_Jones.jpg" class="img-responsive img-circle" alt="speaker-1" />
+                        </div>
+                        <div class="panel-heading">
+                          <div class="panel-title">
+                            <div class="time"><i class="fa fa-clock-o"></i> 3:30 PM</div>
+                            <a data-toggle="collapse" data-parent="#panelTimelineOne" href="#itemTwo">
+                              Workshop: How to Run a Successful Social Media Campaign
+                              <div class="pull-right fa fa-angle-up"></div>
+                              <div class="pull-right fa fa-angle-down"></div>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="itemTwo" class="panel-collapse collapse in">
+                          <div class="panel-body">
+                            <article>
+                              <p>This workshop will give you a solid understanding of what an effective Social Media strategy and execution entails for your Food Startup.</p>
+                              <p class="author"><a href="http://uk.linkedin.com/in/karenjones01"><strong><i class="fa fa-user"></i> Karen Jones</strong></a></p>
+                            </article>
+                          </div>
+                        </div> 
+
+
+TOGGLE
+
+<div class="col-md-3 col-sm-3 col-xs-6">
+            <div class="counter animated hiding" data-animation="fadeInDown" data-delay="1000">
+              <div class="stat"><span class="value" data-from="0" data-to="60">60</span></div>
+              <div class="stat-info">Startups</div>
+              <hr />
+              <p class="small">. <a href="http://www.eventbrite.co.uk/e/food-start-up-school-how-to-build-your-food-start-up-registration-13429521059">Book here.</a></p>
+            </div>
+          </div>
+
+
+WORKSHOP SECTION
+
+
+                        <section id="price" class="section dark">
+      <div class="container">
+        <h3>Our Workshops</h3>
+        <div class="sub-title">In-Depth Knowledge, Expertise Tipps and Tools From Industry Experts </div>
+    <section id="elements" class="section dark">
+      <div class="container">
+            <h7><span class="highlight"><strong>David Franks - How to Rise up to the Challenges of Scale in Manufacturing </strong></span></h7>
+            <div style="padding-top:20px" class="row">
+              <div style="padding-top:10px" class="col-md-3">
+                <img class="img-responsive img-circle" src="assets/img/speaker/David_Franks.jpg">
+              </div>
+              <div class="col-md-9">
+                <p class="big">Scaling up production can be one of the most crucial challenges to any food or drinks startup that is looking to take the next step to grow the business. When orders start exceeding capacity to produce and you have wondered when you could significantly benefit from economies of scale as well as automating parts of your processing, that's when this workshop is right for you. You'll leave with <strong>in-depth industry hacks for production up-scaling and learn to evaluate your product with a purchaser's mind</strong>.
+                </p>
+                  <br> 
+                <p class="big" >This 45 minute session run by David Franks, food production expert  and Managing Director at <a href="http://www.glacia.net/">Glacia Limited</a>, will cover: </p>
+                  
+              </div>
+            </div>
+            
+          <ul class="sub-list">
+            <li><img src="assets/img/png/delivery_food.png" class="icon-style">How to evaluate outsourcing production versus manufacturing yourself</li>
+            <li><img src="assets/img/png/handshake.png" class="icon-style">Margins of production - how to manage retailer expectations</li>
+            <li><img src="assets/img/png/MoneyIdea.png" class="icon-style">How to work around your cash-flow problems as a small business</li>
+            <p class="author"><a href="http://uk.linkedin.com/pub/david-franks/10/8a6/819/de"><strong><i class="fa fa-user"></i> David Franks</strong></a></p> David Franks is a trained chef and has over 40 years experience in food retailing and food manufacturing. During the past years he has helped many small food producers outsource production and develop a sales and marketing strategy. David has brought to market small food companies such as Smith and Sinclair, Proper Beans, Ice Kitchen, Moorish, Lola's cup cakes, Empire Dogs, Moorish and many more.</p>
+            <br> 
+            <h7><span class="highlight"><strong>Karen Jones - How to Run a Successful Social Media Campaign for your Food Startup</strong></span></h7>
+            <div style="padding-top:20px" class="row">
+              <div style="padding-top:10px" class="col-md-3">
+                <img class="img-responsive img-circle" src="assets/img/speaker/Karen_Jones.jpg">
+              </div>
+              <div class="col-md-9">
+            <p class="big"> Building an engaged community on social media is essential for all brands, but for a start up a well executed social media strategy can be the difference between failure and success. Most start ups have very limited budgets and so rely heavily on social media to raise awareness of their brand or product. This workshop will introduce the various social media platforms, give you a solid understanding of what an <strong>effective Social Media strategy</strong> entails and how to maximise your exposure.
+            </p>
+              <br> 
+            <p class="big" >The 45 Minute session, run by Karen Jones, Managing Director of <a href="http://www.occupidigital.com/">Occupi Digital</a> and Co-Founder of <a href="https://www.eatmyworld.com/">Eat My World</a>, will cover: </p>
+             </div>
+            </div>
+          <ul class="sub-list">
+            <li><img src="assets/img/png/Megaphone.png" class="icon-style">Facebook & Twitter 101 – The secret formula to an effective Social Media strategy </li>
+            <li><img src="assets/img/png/Heart.png" class="icon-style">How to build a loyal following</li>
+            <li><img src="assets/img/png/Statistics.png" class="icon-style">Analytics and why they are your friend</li>
+            <p class="author"><a href="http://uk.linkedin.com/in/karenjones01"><strong><i class="fa fa-user"></i> Karen Jones</strong></a></p> Karen Jones is Managing Director of Occupi Digital and Co-Founder of Eat My World. She has over 12 years of experience in Digital Marketing, having worked with hundreds of national startups and international food and drinks brands, Karen is a specialist in all things related to Digital Marketing Strategy for Food & Drinks brands.</p>
+        </section>
+      </div>
+    </section>
